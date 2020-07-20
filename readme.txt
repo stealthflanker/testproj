@@ -1,6 +1,3 @@
-euro-fatca - simple WPF app for standart fatca report to USA IRS via IDES
-1) main idea - to view app with UI and MVVM.
-
 ReferenceService - microservice based on windows service and webapi.
 Tech stack:
 1) topshelf - for release windows service
