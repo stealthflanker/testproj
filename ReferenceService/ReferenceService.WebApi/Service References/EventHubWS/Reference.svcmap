@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="793f7112-b48e-4414-83a2-dbfe02ae2e5a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="D:\Workspace\formreference\wsdl\EventHubWS\EventHubWS\EventHubWS.wsdl" Protocol="file" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CommonTypes.xsd" MetadataType="Schema" ID="ca547564-e499-41a7-8502-2ae2e0c4032f" SourceId="1" SourceUrl="file:///D:/Workspace/formreference/wsdl/EventHubWS/EventHubWS/CommonTypes.xsd" />
+    <MetadataFile FileName="EventHubWS.wsdl" MetadataType="Wsdl" ID="f0199f70-c109-4399-8100-5eee7e84b496" SourceId="1" SourceUrl="file:///D:/Workspace/formreference/wsdl/EventHubWS/EventHubWS/EventHubWS.wsdl" />
+    <MetadataFile FileName="ServiceResult.xsd" MetadataType="Schema" ID="3b181d32-a965-4c96-a33f-5ced3c5bce31" SourceId="1" SourceUrl="file:///D:/Workspace/formreference/wsdl/EventHubWS/EventHubWS/ServiceResult.xsd" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

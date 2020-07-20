@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a37b19bb-74b7-4fa2-b1ee-05bcaae0064b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="D:\Workspace\formreference\wsdl\Ref_PrintServerBridgeWS\PrintServerBridgeWS\PrintServerBridgeWS.wsdl" Protocol="file" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="PrintServerBridgeWS.wsdl" MetadataType="Wsdl" ID="b6c6b5db-4089-48ce-a533-7cbc8ce809bf" SourceId="1" SourceUrl="file:///D:/Workspace/formreference/wsdl/Ref_PrintServerBridgeWS/PrintServerBridgeWS/PrintServerBridgeWS.wsdl" />
+    <MetadataFile FileName="ServiceResult.xsd" MetadataType="Schema" ID="b27148bf-8442-4b55-89ec-a2c885d6fcb6" SourceId="1" SourceUrl="file:///D:/Workspace/formreference/wsdl/Ref_PrintServerBridgeWS/PrintServerBridgeWS/ServiceResult.xsd" />
+    <MetadataFile FileName="CommonTypes.xsd" MetadataType="Schema" ID="7f9c2fde-b2f0-4e4b-b81a-4ff733e0e9e2" SourceId="1" SourceUrl="file:///D:/Workspace/formreference/wsdl/Ref_PrintServerBridgeWS/PrintServerBridgeWS/CommonTypes.xsd" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
